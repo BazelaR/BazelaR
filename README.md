@@ -4,7 +4,7 @@
 🌍 Social Impact & Community Innovation  
 📊 Interested in AI for Social Good, Smart Cities & EdTech  
 💡 Currently learning Python, R, SQL & data analytics  
-🚀 Beginning my tech journey — participating in hackathons!
+🚀 Beginning my tech journey - participating in hackathons!
 
 ---
 
