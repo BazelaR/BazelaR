@@ -60,7 +60,7 @@ I also contributed to concept design, documentation, and team coordination.
 - Helped design a game concept that connects *education*, *history*, and *AI*  
 - Learned the importance of **team synergy** and **adaptive problem-solving** under pressure  
 
-### 🔮 What’s Next
+### What’s Next
 We plan to expand History Imposter by:
 - Adding more playable historical figures  
 - Refining AI prompts for better engagement  
