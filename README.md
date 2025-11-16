@@ -6,14 +6,12 @@ Interested in AI for Social Good, Smart Cities & EdTech
 Currently learning Python, R, SQL & data analytics  
 Beginning my tech journey - participating in hackathons!
 
----
 
 ## What I'm Working On
 - Building foundational coding & data analysis skills  
 - Joining hackathons (starting with **DurHack X**)  
 - Creating small learning projects & notebooks  
 
----
 
 ## Tech & Tools I'm Learning
 - Python, R, SQL
@@ -21,7 +19,6 @@ Beginning my tech journey - participating in hackathons!
 - Git & GitHub (new!)
 - Data analysis & visualisation
 
----
 
 ## Goals for 2025
 - Build real-world tech projects  
@@ -29,7 +26,6 @@ Beginning my tech journey - participating in hackathons!
 - Learn machine learning basics  
 - Grow as a community-focused technologist  
 
----
 
 ## Hackathon Learning Repo
 `durhack2025/`
