@@ -1,6 +1,6 @@
 # Hi, I'm Bazela 
 
-MSc Data Science | Durham University  
+Master of Data Science | Durham University  
 Social Impact & Community Innovation  
 Interested in AI for Social Good, Smart Cities & EdTech  
 Currently learning Python, R, SQL & data analytics  
@@ -63,5 +63,5 @@ We plan to expand History Imposter by:
 - Hosting the game on a public site for continued learning
 
 ## Let’s Connect
-LinkedIn: https://linkedin.com/in/bazela-rivombo  
+LinkedIn: https://linkedin.com/in/bazela  
 Always open to learning, collaboration & mission-driven tech
