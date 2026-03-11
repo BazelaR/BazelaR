@@ -9,14 +9,14 @@ Beginning my tech journey - participating in hackathons!
 
 ## What I'm Working On
 - Building foundational coding & data analysis skills  
-- Joining hackathons (starting with **DurHack X**)  
+- Joining hackathons (starting with DurHack X)  
 - Creating small learning projects & notebooks  
 
 
 ## Tech & Tools I'm Learning
 - Python, R, SQL
 - Jupyter Notebook
-- Git & GitHub (new!)
+- Git & GitHub (new)
 - Data analysis & visualisation
 
 
@@ -31,15 +31,15 @@ Beginning my tech journey - participating in hackathons!
 `durhack2025/`
 
 ### Project: History Imposter
-A collaborative project developed during **DurHack X (2025)** — inspired by the themes *"Legacy"* and *"Bridging Worlds"*.
+A collaborative project developed during **DurHack X (2025)**, inspired by the themes *"Legacy"* and *"Bridging Worlds"*.
 
 ### Overview
 **History Imposter** is an educational, game-based learning experience where players interact with AI agents impersonating historical figures.  
-The goal is to outsmart 4 AI characters while learning real-world facts and stories from global history — making education interactive, fun, and inclusive.
+The goal is to outsmart 4 AI characters while learning real-world facts and stories from global history, making education interactive, fun and inclusive.
 
 ### My Contribution
-I focused on **research and content development**, ensuring the historical context and learning elements were accurate, engaging, and age-appropriate.  
-I also contributed to concept design, documentation, and team coordination.
+I focused on **research and content development**, ensuring the historical context and learning elements were accurate, engaging and age-appropriate.  
+I also contributed to concept design, documentation and team coordination.
 
 ### Tech Stack
 `Python` · `Flask` · `OpenAI API` · `DigitalOcean` · `GradientAI`
